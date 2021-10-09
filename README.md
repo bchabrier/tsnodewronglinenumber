@@ -56,3 +56,5 @@ ts-node v10.2.1
 node v14.16.0
 compiler v4.4.3
 ```
+
+Issue [#1495](https://github.com/TypeStrong/ts-node/issues/1495) submitted to ts-node.
