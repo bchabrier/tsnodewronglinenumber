@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es2017",
+    "module": "commonjs",
+    "sourceMap": true,
+    "inlineSources": false,
+    "rootDir": ".",
+    "declaration": false,
+    "outDir": "./dist",
+    "types": [
+      "node"
+    ],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "./dist",
+    "./node_modules",
+  ]
+}
